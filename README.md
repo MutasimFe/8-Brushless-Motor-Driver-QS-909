@@ -126,3 +126,5 @@ We have two states for the switch:
 
 2. We have two ways for controlling the speed but in our case using the Signal pin (PWM) is usefull while in case where there is no controller (Arduino) we use the VR pin because we will use an external voltage (battery or power supply).
 
+## Important Notes:
+* I can not simulate the circuit because the driver is not available on the simulation platform
