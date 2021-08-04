@@ -54,9 +54,7 @@ Connect the Brushless motor driver for the robot base
 
 # Connection:
 
-
-
-### Notes:
+![Circuit](https://user-images.githubusercontent.com/85455361/128220442-72357135-b3e9-4528-b7a7-227a173ab0c0.jpg)
 
 # Code 
 
