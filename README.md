@@ -21,13 +21,21 @@ Connect the Brushless motor driver for the robot base
 
 ### As shown. it has 5 pins on each side:
 1. Right Pins:
+
+    ![Screenshot_3](https://user-images.githubusercontent.com/85455361/128218201-235e4930-5a46-429e-bacf-8433091b8640.jpg)
+    
     1. Vcc (5V)
     2. Signal pin or what we call it PWM; we can use it to control the speed
     3. Z/F pin which is responsible for the direction of the wheel 
     4. VR or voltage controller pin; we can use it to control the speed too
     5. GND pin
 
+
 2. Left Pins
+    
+    ![Screenshot_8](https://user-images.githubusercontent.com/85455361/128218426-bf6f0ab8-5510-4188-b66a-d0e1c4570fe0.jpg)
+
+    
     1. MA/U ; coming from the brushless motor
     2. MB/V ; coming from the brushless motor
     3. MC/W ; coming from the brushless motor
