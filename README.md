@@ -3,7 +3,7 @@
 
 # The Main Idea:
 
-Connect the Brushless motor driver for the robot base 
+* Connect the Brushless motor driver for the robot base 
 
 # Components:
 
